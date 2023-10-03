@@ -111,6 +111,8 @@ ul li.active{
     object-fit: cover;
 
     border-radius: 50%;
+
+    border: .2rem solid var(--color-base-gray-100);
 }
 
 main h1{
@@ -152,6 +154,7 @@ main h1{
 
 .deatils h2{
     font-size: 1.8rem;
+    color: var(--color-base-gray-900);
 }
 
 .tags{
