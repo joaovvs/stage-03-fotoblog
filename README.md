@@ -35,9 +35,6 @@ Que tal se desafiar e montar a base do projeto usando o `grid-template-areas`?
 
 Você consegue identificar as estruturas do projeto?
 
-![areas.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a8ad0c2-483a-43b4-abe8-b56db4ea5e5c/areas.png)
-
-E agora? Ficou mais fácil visualizar?
 
 E aí, vai encarar? 😉💜
 
